@@ -1,10 +1,9 @@
 {
   "name": "language-icon",
   "main": "./lib/language-icon",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax for Icon programming language.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "language-icon:toggle"
   },
@@ -19,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
