@@ -1,0 +1,24 @@
+{
+  "name": "language-icon",
+  "main": "./lib/language-icon",
+  "version": "0.0.0",
+  "description": "Syntax for Icon programming language.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-icon:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chimstaz/language-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chimstaz/language-icon/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
